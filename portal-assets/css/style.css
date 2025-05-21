@@ -150,7 +150,7 @@ input {
 
 a:focus {
   text-decoration: none;
-  color: inherit;
+  /* color: inherit; */
   outline: none;
 }
 
